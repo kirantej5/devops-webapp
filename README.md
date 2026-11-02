@@ -9,6 +9,12 @@ A polished, containerized task dashboard for demonstrating a small but complete 
 
 ![Orbit delivery pipeline](docs/architecture.svg)
 
+## Screenshot
+
+![Orbit task dashboard](docs/screenshots/task-dashboard.svg)
+
+The preview shows the responsive dashboard, summary cards, task filters, and task list. Run the app locally or with Docker to interact with it.
+
 ## Features
 
 - Create and edit tasks with project, priority, and due date
